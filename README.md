@@ -212,7 +212,7 @@ Start the load test by specifying the number of users and spawn rate.
 
 ## Author
 
-**Gollapalli Nimruja Lakshmi Siva Ganga**
+**G RV Manideep**
 
 **Project:** Smart Lender 
 
